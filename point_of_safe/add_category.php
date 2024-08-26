@@ -23,7 +23,7 @@ mysqli_close($conn);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Add Category</title>
+    <title>Add Category - POS</title>
 </head>
 <body>
     <h1>Add Category</h1>

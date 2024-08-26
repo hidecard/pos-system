@@ -33,7 +33,7 @@ mysqli_close($conn);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Add Item</title>
+    <title>Add Item - POS</title>
 </head>
 <body>
     <h1>Add Item</h1>

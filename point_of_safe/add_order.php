@@ -62,7 +62,7 @@ mysqli_close($conn);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Place Order</title>
+    <title>Place Order - POS</title>
 </head>
 <body>
     <h1>Place Order</h1>
